@@ -38,7 +38,7 @@ function App() {
           alt="profile"
           className="w-20 md:w-28 h-auto m-6 rounded-full"
         />
-        <h4 className=" text-lg md:text-xl font-bold">YUSUF a ADETUNJI</h4>
+        <h4 className=" text-lg md:text-xl font-bold">YUSUF ADETUNJI</h4>
       </div>
 
       <Body />
